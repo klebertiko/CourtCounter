@@ -1,2 +1,2 @@
 # CourtCounter
-Udacity/Google simple basket score app
+Udacity/Google simple basket score Android app.
